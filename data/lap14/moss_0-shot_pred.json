@@ -1,0 +1,32 @@
+{
+    "0": {
+        "text": "Boot time is super fast , around anywhere from 35 seconds to 1 minute .",
+        "aspect": "Boot time",
+        "label": "1",
+        "predition": "positive"
+    },
+    "1": {
+        "text": "tech support would not fix the problem unless I bought your plan for $ 150 plus .",
+        "aspect": "tech support",
+        "label": "-1",
+        "predition": "negative"
+    },
+    "2": {
+        "text": "Set up was easy .",
+        "aspect": "Set up",
+        "label": "1",
+        "predition": "positive"
+    },
+    "3": {
+        "text": "Did not enjoy the new Windows 8 and touchscreen functions .",
+        "aspect": "Windows 8",
+        "label": "-1",
+        "predition": "negative"
+    },
+    "4": {
+        "text": "Did not enjoy the new Windows 8 and touchscreen functions .",
+        "aspect": "touchscreen functions",
+        "label": "-1",
+        "predition": "negative"
+    }
+}
