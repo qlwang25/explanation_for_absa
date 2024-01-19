@@ -33,9 +33,9 @@ As shown in Figure, our framework consists of two steps.
 
 ---
 ### Follow the steps below to run the code:
-1. download pre trained model weights from [huggingface](https://huggingface.co/docs/transformers/model_doc/bert), and put it in `./pretrain_models` directory
+1. download pre-trained model weights from [huggingface](https://huggingface.co/docs/transformers/model_doc/bert), and put it in `./pretrain_models` directory
 2. download data according to references
-3. use large models to generate explanation of data (some examples can see [MOSS](https://github.com/OpenLMLab/MOSS) and [ChatGPT](https://platform.openai.com/docs/introduction))
+3. use large models to generate explanation of data (some code can see [MOSS](https://github.com/OpenLMLab/MOSS) and [ChatGPT](https://platform.openai.com/docs/introduction))
 7. install packages (see `requirements.txt`)
 8. run `.run_bash/*.sh`
 
